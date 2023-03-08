@@ -1,0 +1,12 @@
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.deps.json
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.dll
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.pdb
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.dll
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\refint\BlazorEcommerce.Shared.dll
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.pdb
+C:\Users\facundo.vega\source\repos\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
